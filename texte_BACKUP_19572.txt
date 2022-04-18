@@ -4,5 +4,9 @@ et j'ai de nouvelles phrases !
 
 teste branche 2 eme round
 
+<<<<<<< HEAD
+test 
+test 
+=======
 un chamgement paradoxal !
-
+>>>>>>> test
